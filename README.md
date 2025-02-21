@@ -21,15 +21,14 @@
 
 ---
 
-<h3 align="left">📂 My current project:</h3>
-- <a href="https://github.com/gigasandwich/HttpServer">A collaborative project about an apache like server</a> 
+<h3 align="left">📂 My current projects are available [here](https://github.com/gigasandwich)</h3>
 
 ---
 
 <h3 align="left">📫 Get in Touch:</h3>
 <p align="left">
   <a href="mailto:yvannandy@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/Jill.Sandwich.912"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/jillsandwich.giga"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
 </p>
 ---
 
