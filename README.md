@@ -9,7 +9,7 @@
 - 💻 Proficient in **Python** (with a focus on OOP), **Java**, **jQuery**, and **Bootstrap**.
 - 🚀 Always eager to learn new technologies and improve my skills through hands-on projects.
 
----
+<hr>
 
 <h3 align="left">🔧 Technologies & Tools:</h3>
 <p align="left">
@@ -19,17 +19,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
----
+<hr>
 
-<h3 align="left">📂 My current projects are available [here](https://github.com/gigasandwich)</h3>
+<h3 align="left">📂 My current projects are available <a href="https://github.com/gigasandwich?tab=repositories">here in my github repos</a></h3>
 
----
+<hr>
 
 <h3 align="left">📫 Get in Touch:</h3>
 <p align="left">
   <a href="mailto:yvannandy@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
   <a href="https://www.facebook.com/jillsandwich.giga"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
 </p>
----
+
+<hr>
 
 <h3 align="center">Thanks for visiting my profile! ✨</h3>
