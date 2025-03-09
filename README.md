@@ -12,12 +12,30 @@
 <hr>
 
 <h3 align="left">🔧 Technologies & Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-</p>
+<h3>🎨 Front-End Development</h3>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
+<h3>🧑🏽‍💻 Back-End Development</h3>
+
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+<h3>💾 Databases</h3>
+
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+
+<h3>🧰 Other Tools</h3>
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=007ACC)
 
 <hr>
 
