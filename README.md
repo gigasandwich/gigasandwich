@@ -6,7 +6,7 @@
 -->
 <h3 align="center">From <i>Madagascar</i>, currently pursuing my studies <!-- at IT University -->.  </h3>
 
-<h2 align="left">🔧 Technologies & Tools:</h2>
+<h2 align="left">🔧 Technologies & Tools, which are not fully mastered yet but still learning:</h2>
 <h4>🎨 Front-End Development</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -47,4 +47,4 @@
 
 <hr>
 
-<h3 align="center">Thanks for visiting my profile! ✨</h3>
+<h3 align="center">Thank you for visiting my profile! ✨</h3>
