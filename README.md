@@ -18,7 +18,7 @@
 
 <h4>🧑🏽‍💻 Back-End Development</h4>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+<!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB) -->
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
 
