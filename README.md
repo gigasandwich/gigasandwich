@@ -47,4 +47,4 @@
 
 <hr>
 
-<h3 align="center">Thank you for visiting my profile! ✨</h3>
+<!-- <h3 align="center">Thank you for visiting my profile! ✨</h3> -->
