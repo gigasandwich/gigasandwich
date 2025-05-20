@@ -4,9 +4,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 </div>
 -->
-<h3 align="center">From <i>Madagascar</i>, currently pursuing my studies <!-- at IT University -->.  </h3>
+<h3 align="center">From <i>Madagascar</i>, currently pursuing my studies <!-- at IT University --></h3>
 
-<h2 align="left">🔧 Technologies & Tools, which are not fully mastered yet but I am still learning:</h2>
+<hr>
+<h3 align="left">🔧 Technologies & Tools, which are not fully mastered yet but I am still learning:</h3>
+<hr>
+
 <h4>🎨 Front-End Development</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
