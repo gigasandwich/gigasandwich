@@ -7,7 +7,8 @@
 <h3 align="center">From <i>Madagascar</i>, currently pursuing my studies <!-- at IT University --></h3>
 
 <hr>
-<h3 align="left">🔧 Technologies & Tools, which are not fully mastered yet but I am still learning:</h3>
+<h3 align="left">🔧 Tech stack </h3> 
+<h3>ㅤㅤnot fully mastered yet but I am still learning</h3>
 <hr>
 
 <h4>🎨 Front-End Development</h4>
@@ -25,15 +26,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
 
-<h4>💾 Databases</h4>
+<h4>💾 DBMS</h4>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
 
 <h4>🧰 Other Tools</h4>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=007ACC)
 
 <hr>
@@ -42,7 +41,7 @@
 
 <hr>
 
-<h3 align="left">📫 Get in Touch:</h3>
+<h3 align="left">📫 Contacts:</h3>
 <p align="left">
   <a href="mailto:yvannandy@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
   <a href="https://www.facebook.com/jillsandwich.giga"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
