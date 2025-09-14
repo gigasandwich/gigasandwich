@@ -7,35 +7,6 @@
 <h3 align="center">From <i>Madagascar</i>, currently pursuing my studies <!-- at IT University --></h3>
 
 <hr>
-<h3 align="left">🔧 Tech stack </h3> 
-<h3>ㅤㅤnot fully mastered yet but I am still learning</h3>
-<hr>
-
-<h4>🎨 Front-End Development</h4>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-
-<h4>🧑🏽‍💻 Back-End Development</h4>
-
-<!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB) -->
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
-
-<h4>💾 DBMS</h4>
-
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
-
-<h4>🧰 Other Tools</h4>
-
-![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode&logoColor=007ACC)
-
-<hr>
 
 <h3 align="left">📂 My best project so far: <a href="https://github.com/gigasandwich/leetcode-questions">Fetching leetcode questions in a single pdf</a></h3>
 
